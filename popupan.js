@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://bit.ly/theaston-nhatrang';
+	var url_popup = 'https://theaston-nhatrang.blogspot.com/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
